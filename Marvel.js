@@ -225,7 +225,7 @@ buildFighterGrids();
    ============================== */
 const allHeroes = [
   { name: "Spider-Man",      img: "IMG_5049.PNG",    role: "Striker",   color: "#cc1a1a" },
-  { name: "Iron Man",        img: "https://i.pinimg.com/736x/ed/b7/fc/edb7fc2ef2f59da57184e48b0d3a50e5.jpg",       role: "Tactician", color: "#c9a84c" },
+  { name: "Iron Man",        img: "https://i.pinimg.com/736x/46/e4/ff/46e4ff905c1f8a90163316107018fc8b.jpg",       role: "Tactician", color: "#c9a84c" },
   { name: "Captain America", img: "https://i.pinimg.com/736x/ed/b7/fc/edb7fc2ef2f59da57184e48b0d3a50e5.jpg",       role: "Leader",    color: "#1a6bc4" },
   { name: "Thor",            img: "https://i.pinimg.com/1200x/bb/63/d3/bb63d3f6592636b3e5a5c7fa45716d09.jpg",          role: "Powerhouse",color: "#6040cc" },
   { name: "Hulk",            img: "https://i.pinimg.com/1200x/0b/d2/b0/0bd2b04c816209517e84781b45632226.jpg",          role: "Powerhouse",color: "#40a840" },
